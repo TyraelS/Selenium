@@ -1,2 +1,2 @@
 # Selenium
-Repo for files of selenium courses
+Repo for files from selenium course
